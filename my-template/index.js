@@ -16,6 +16,8 @@ module.exports = {
     },
     version: "1.0.0",
     namespace: "developer-blog",
+    description:
+      "A plugin created by the create-block tool using a custom external project template.",
     render: "file:./render.php",
     customPackageJSON: {
       prettier: "@wordpress/prettier-config",
