@@ -1,6 +1,6 @@
 # External Project Templates
 
-The accompanying code for the developer blog post.
+The accompanying code for the developer blog post: [Creating an external project template for create-block](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/)
 
 ## Setup
 
